@@ -8,3 +8,4 @@
 
 
 **Example Done by: [Nell Shamrell](https://github.com/nellshamrell/snake_to_camel_case)**
+**Video Example: [Ruby Conf 2013 Regex](https://www.youtube.com/watch?v=JfwS4ibJFDw)**
