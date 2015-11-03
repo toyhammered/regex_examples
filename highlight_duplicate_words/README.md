@@ -1,6 +1,6 @@
-## Highlight all duplicate words using <strong> </strong> tags.
-## Do not hightlight the first instance of the duplicated word.
-## The words must be right next to each other. (This test is <strong>is</stong>a cool test)
+#### Highlight all duplicate words using <strong> </strong> tags.
+#### Do not hightlight the first instance of the duplicated word.
+#### The words must be right next to each other. (This test is <strong>is</stong> a cool test)
 
 ---
 
